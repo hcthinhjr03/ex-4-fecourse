@@ -1,0 +1,47 @@
+
+
+.color-red {
+    color: red;
+}
+#color-green {
+    color: green;
+}
+.bg {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+}
+.bg-2 {
+    width: 100%;
+    height: 200px;
+    background-image: url(image-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.box-1 {
+    color: white;
+    text-align: center;
+    background-color: green;
+    border: 5px solid black;
+    padding: 30px 20px;
+    margin: 5px;
+}
+.box-2 {
+    color: white;
+    text-align: right;
+    background-color: red;
+    background-clip: padding-box;
+    border: 5px dashed gray;
+    padding: 30px 20px;
+}
+
+.font {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial;
+    font-variant: small-caps;
+}
+
